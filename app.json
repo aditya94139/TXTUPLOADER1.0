@@ -1,7 +1,7 @@
 
 {
 
-    "name": "𝙑𝙄𝙍𝙀𝙉𝘿𝙍𝘼 𝙑𝙀𝙍𝙈𝘼™",
+    "name": "𝗔𝗗𝗜𝗧𝗬𝗔⚡️™",
 
     "description": "A Modular telegram bot.",
 
@@ -32,21 +32,21 @@
         "BOT_TOKEN": {
 
             "description": "Your Bot token from @Botfather",
-            "value": "6911744817:AAFH-5aOTr9hrR-VYmHFKK4w_1nXsbQ-vqw"
+            "value": "7196653974:AAFBhgQKJ1F7z-L1X62NX5KjFxgC8IXEBNM"
 
         },
 
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "25919081"
+            "value": "23163380"
 
         },
 
         "API_HASH": {
 
             "description": "Your API_HASH from https://my.telegram.org/apps",
-            "value": "0bc2fdba14b16b44f0d89729ed8d2118"
+            "value": "2dca155e786c7db2d295e5b4ab10783b"
 
         }
 
