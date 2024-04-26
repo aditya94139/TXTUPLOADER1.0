@@ -42,9 +42,9 @@ Use these settings when adding a monitor:</b>
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Raj933955/TXTUPLOADER1.0/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/aditya94139/TXTUPLOADER1.0/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
   ## Contact :
-<a href="https://t.me/official_virendraverma"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/maisamyahu"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
